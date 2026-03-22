@@ -16,7 +16,11 @@ Hi, I'm Laxmidhar Sahoo 👋<br>I’m a passionate developer with an interest in
 ![](https://github-profile-trophy.vercel.app/?username=LAXMIDHARLHS974&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+> "Professionalism has no place in art, and hacking is art.  
+> Software Engineering might be science; but that's not what I do.  
+> I'm a hacker, not an engineer."  
+> — Jamie Zawinski
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LAXMIDHARLHS974&icon=0&color=0)](https://visitcount.itsvg.in)
