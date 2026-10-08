@@ -2,18 +2,15 @@
 <!-- ═══════════════ 🌸 ANIME HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,35:fad0c4,65:a18cd1,100:2b1055&height=240&section=header&text=Laxmidhar%20Sahoo&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=twinkling&stroke=2b1055&strokeWidth=1&desc=%E9%96%8B%E7%99%BA%E8%80%85%20%E2%9C%A6%20Aspiring%20Full-Stack%20Java%20Developer&descSize=20&descAlignY=58" width="100%" alt="header"/>
+<img src="https://raw.githubusercontent.com/LAXMIDHARLHS974/LAXMIDHARLHS974/main/banner.png" width="100%" alt="anime banner"/>
+
+<h1>Laxmidhar Sahoo &nbsp;<sub>開発者</sub></h1>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=FF9ECD&center=true&vCenter=true&width=760&height=50&lines=%E2%9C%A8+Hi%2C+I'm+Laxmidhar+Sahoo+%F0%9F%91%8B;%F0%9F%8C%B8+BCA+Student+%7C+Aspiring+Full-Stack+Java+Developer;%E2%9A%94%EF%B8%8F+Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Improve;%F0%9F%9A%80+Building+with+React+%26+Spring+Boot;%F0%9F%8E%AF+Goal%3A+Become+a+highly+skilled+Software+Engineer" alt="Typing SVG" />
 </a>
 
 <br/><br/>
-
-<!-- 🎀 Original animated mascot (file: assets/mascot.svg) -->
-<img src="assets/mascot.svg" width="320" alt="Anime-style coding mascot"/>
-
-<br/>
 
 🌸 &nbsp;`( •̀ ω •́ )✧` &nbsp;**ようこそ — Welcome to my profile!** &nbsp;`(≧◡≦)` &nbsp;🌸
 
@@ -42,7 +39,7 @@
 
 </div>
 
-<img src="assets/sakura-divider.svg" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9a9e,50:a18cd1,100:2b1055&height=3" width="100%" alt=""/>
 
 <a id="about"></a>
 # 💫 About Me &nbsp;<sub>自己紹介</sub>
@@ -70,7 +67,7 @@ I'm a passionate **BCA student and aspiring Full-Stack Java Developer** who enjo
 
 <div align="right"><a href="#top">⬆️ back to top</a></div>
 
-<img src="assets/sakura-divider.svg" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9a9e,50:a18cd1,100:2b1055&height=3" width="100%" alt=""/>
 
 <a id="skills"></a>
 # 🛠️ Skills &nbsp;<sub>スキル</sub>
@@ -134,7 +131,7 @@ mindmap
 
 <div align="right"><a href="#top">⬆️ back to top</a></div>
 
-<img src="assets/sakura-divider.svg" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9a9e,50:a18cd1,100:2b1055&height=3" width="100%" alt=""/>
 
 # 💻 Tech Stack &nbsp;<sub>技術スタック</sub>
 
@@ -156,7 +153,7 @@ mindmap
 
 </div>
 
-<img src="assets/sakura-divider.svg" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9a9e,50:a18cd1,100:2b1055&height=3" width="100%" alt=""/>
 
 <a id="projects"></a>
 # 🧩 Featured Projects &nbsp;<sub>プロジェクト</sub>
@@ -194,7 +191,7 @@ Backend application for managing student records through REST APIs.
 
 <div align="right"><a href="#top">⬆️ back to top</a></div>
 
-<img src="assets/sakura-divider.svg" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9a9e,50:a18cd1,100:2b1055&height=3" width="100%" alt=""/>
 
 <a id="stats"></a>
 # 📊 GitHub Stats &nbsp;<sub>統計</sub>
@@ -210,16 +207,6 @@ Backend application for managing student records through REST APIs.
 
 </div>
 
-### 🐍 Contribution Snake &nbsp;<sub>コントリビューション・スネーク</sub>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LAXMIDHARLHS974/LAXMIDHARLHS974/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LAXMIDHARLHS974/LAXMIDHARLHS974/output/github-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/LAXMIDHARLHS974/LAXMIDHARLHS974/output/github-snake-dark.svg"/>
-</picture>
-</div>
-
 ### 🏆 GitHub Trophies
 
 <div align="center">
@@ -230,7 +217,7 @@ Backend application for managing student records through REST APIs.
 
 <div align="right"><a href="#top">⬆️ back to top</a></div>
 
-<img src="assets/sakura-divider.svg" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9a9e,50:a18cd1,100:2b1055&height=3" width="100%" alt=""/>
 
 <a id="journey"></a>
 # 📈 My Development Journey &nbsp;<sub>冒険の地図</sub>
@@ -259,7 +246,7 @@ flowchart TD
 
 <div align="right"><a href="#top">⬆️ back to top</a></div>
 
-<img src="assets/sakura-divider.svg" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9a9e,50:a18cd1,100:2b1055&height=3" width="100%" alt=""/>
 
 <a id="goals"></a>
 # 🎯 2026 Goals &nbsp;<sub>目標</sub>
@@ -275,7 +262,7 @@ flowchart TD
 
 <div align="right"><a href="#top">⬆️ back to top</a></div>
 
-<img src="assets/sakura-divider.svg" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9a9e,50:a18cd1,100:2b1055&height=3" width="100%" alt=""/>
 
 # 🎲 Fresh Every Visit &nbsp;<sub>毎回新しく</sub>
 
