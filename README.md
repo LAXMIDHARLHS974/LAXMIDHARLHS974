@@ -10,7 +10,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=LAXMIDHARLHS974&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=LAXMIDHARLHS974&icon=0&color=0" alt="visit count"/></a>
+<a href="https://laxmidharlhs974.github.io/my-website-LHS/"><img src="https://visitcount.itsvg.in/api?id=LAXMIDHARLHS974&icon=0&color=0" alt="visit count"/></a>
 
 <br/><br/>
 
